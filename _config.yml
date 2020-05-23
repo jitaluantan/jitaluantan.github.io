@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     吉他乱弹
-zhihu_username:     吉他乱弹
+weibo_username:     5809908110
+zhihu_username:     jitaluantanpage
 github_username:    jitaluantan
 twitter_username:   jitaluantan
 #facebook_username:  huxpro
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: bruce
+disqus_username: disqus_U49hzmlSJt
 
 # Netease settings
 netease_comment: false
