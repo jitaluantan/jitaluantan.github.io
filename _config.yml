@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: zhangdongsheng_cn@163.com
 description: "关于程序与游戏设计、黑客与画家| 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
 keyword: "游戏,策划,Bruce,制作人,Bruce Blog,吉他乱弹的博客,吉他乱弹,博客,个人网站"
-url: "http://jitaluantan.github.io"              # your host, for absolute URL
+url: "https://jitaluantan.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: disqus_brucezhang
+disqus_username: bruce-blog
 
 # Netease settings
 netease_comment: false
